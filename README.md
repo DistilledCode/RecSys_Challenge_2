@@ -1,1 +1,16 @@
-# RecSys_Challenge_2
+## Recommendation System
+## Challenge 2
+## Group 6
+* ### Vrishmi Parikh (202318013) 
+* ### Mahmood Topiwala (202318030)
+* ### Anurag Shukla (202318039)
+* ### Tanaz Pathan (202318056)
+
+
+
+User: vJW9mmXL4ScyBC3Ubt/iHoQv6I5/Aw/LdWeQVooMvt0=
+Precision:  0.7105263157894737
+Recall:     0.8571428571428571
+
+==================================
+
